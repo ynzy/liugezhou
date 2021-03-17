@@ -8,7 +8,7 @@
 
 #### Blog: https://www.liugezhou.online
 
-![Liugezhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=liugezhou&show_icons=true&theme=flag-india)
+![Liugezhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=liugezhou&show_icons=true&theme=flag-india&hide=prs,issues,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liugezhou&layout=compact)](https://github.com/liugezhou/liugezhou_music)
 
