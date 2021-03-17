@@ -1,7 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liugezhou&show_icons=true&icon_color=0366d6&text_color=25292E&bg_color=C1E3FB&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liugezhou&show_icons=true&icon_color=0366d6&text_color=25292E&bg_color=C1E3FB&hide_title=true&count_private=true" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liugezhou&repo=github-readme-stats)](https://github.com/liugezhou/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
